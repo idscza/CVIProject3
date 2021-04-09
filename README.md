@@ -5,7 +5,7 @@ Proyecto 3 de Computación Visual Interactiva
 Iván David Salazar Cárdenas - 201629873
 
 
-![Proj 3](blob:https://imgur.com/7f83c3e6-776d-4051-8881-9a5ceb60b410)
+![Proj 3](https://i.imgur.com/3yTtCn7.png)
 
 Proyecto de Unity, para observar la escena, hacer click en play.
 
